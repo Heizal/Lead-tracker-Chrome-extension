@@ -40,6 +40,8 @@ This is pretty easy to do
 </ul>
 <img src = "images/delete all.jpg">
 
+View app : https://leads-tracker-chrome-extension.netlify.app/
+
 
 ## P.S: All your links will remain in the leads tracker until you delete them.
 
