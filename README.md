@@ -1,4 +1,4 @@
-### Leads Tracker Chrome Extension
+# Leads Tracker Chrome Extension
 
 Get it:
 <ul>
@@ -21,15 +21,21 @@ This is pretty easy to do
 <li>Fork the repository and get it on your local device</li>
 <li>Open up Chrome extensions, turn on developer mode and load the extension</li>
 <li>Hurray! You now can track your links with the Leads Tracker</li>
+ </ul>
 
 ## Visual How it Works
-
-<li>To save the link on the current site you are on click press 'save tab'<li>
+<ul>
+ <li>To save the link on the current site you are on click press 'save tab'<li>
+</ul>
 <img src = "images/save tab.jpg">
 
+
+<ul>
 <li>To copy a link outside of the current site you are on copy and paste it into the bar and click 'save input'<li>
+</ul>
 <img src = "images/save input.jpg">
 
+<ul>
 <li>To delete all your links DOUBLE CLICK 'delete all'<li>
 </ul>
 <img src = "images/delete all.jpg">
